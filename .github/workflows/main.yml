@@ -32,4 +32,4 @@ jobs:
 
       - name: Link Human to Agent
         run: |
-          node
+          node scripts/manualLinkHumanToAgent.js
